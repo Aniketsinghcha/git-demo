@@ -47,3 +47,4 @@ it captures a snapshots  of the project's staged changes and created a version o
    in the staging area
 <<<just for pull purpose i am making this commit>>>
    
+'git pull <remote name> <branch name>'-->downloads latest changes
