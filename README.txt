@@ -25,3 +25,7 @@ it captures a snapshots  of the project's staged changes and created a version o
 'git commit'-> register staging changes to commit
 
 'git log'-->> prints all of the commit of the repositry
+
+
+'git restore'-->it removes all file changes  from the staging area to be commited.this can beusefult,as it will restore the the last commited version
+
