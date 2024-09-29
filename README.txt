@@ -30,3 +30,7 @@ it captures a snapshots  of the project's staged changes and created a version o
 'git restore'-->it removes all file changes  from the staging area to be commited.this can beusefult,as it will restore the the last commited version
 
 'difference between git restore and git rm'-->
+ git restore is used for playing between git working area and git 
+ stagged area  while git rm moves enitre file to untracking to working area,while restore command
+ only play wuth changes made .perioddddddtttt.
+  
