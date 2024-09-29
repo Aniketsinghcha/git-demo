@@ -48,3 +48,10 @@ it captures a snapshots  of the project's staged changes and created a version o
 <<<just for pull purpose i am making this commit>>>
    
 'git pull <remote name> <branch name>'-->downloads latest changes
+###  recommended practice to do
+   -make change
+   -git add <files>
+   -git commit
+   -git pull
+   -git push
+   
