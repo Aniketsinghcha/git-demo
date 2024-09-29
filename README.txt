@@ -32,5 +32,8 @@ it captures a snapshots  of the project's staged changes and created a version o
 'difference between git restore and git rm'-->
  git restore is used for playing between git working area and git 
  stagged area  while git rm moves enitre file to untracking to working area,while restore command
- only play wuth changes made .perioddddddtttt.
+ only play wuth changes made .perioddddddtttt. 
+
+ 'git commit -m  'your mssage'-->if we want to avoid opening a text editor
+   like vim/nano to add commit message we use following command
   
