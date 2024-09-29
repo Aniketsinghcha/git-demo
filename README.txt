@@ -36,4 +36,13 @@ it captures a snapshots  of the project's staged changes and created a version o
 
  'git commit -m  'your mssage'-->if we want to avoid opening a text editor
    like vim/nano to add commit message we use following command
-  
+
+   'git remote add <name of remote> <repo url>' -->
+   this command helps us to add a new link to the remote repo and give
+   a name to it.
+
+  'git remote rm<name of remote>' --> this command deleted the remote connection
+
+  'git add <file1> <file2> <file3>'--> thuis command will add multiple file changes together
+   in the staging area
+   
